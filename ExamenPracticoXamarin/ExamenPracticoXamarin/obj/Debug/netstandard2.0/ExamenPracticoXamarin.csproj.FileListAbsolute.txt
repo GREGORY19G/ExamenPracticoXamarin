@@ -1,0 +1,14 @@
+C:\Users\MInerd\Desktop\ExamenPracticoXamarin\ExamenPracticoXamarin\ExamenPracticoXamarin\bin\Debug\netstandard2.0\ExamenPracticoXamarin.deps.json
+C:\Users\MInerd\Desktop\ExamenPracticoXamarin\ExamenPracticoXamarin\ExamenPracticoXamarin\bin\Debug\netstandard2.0\ExamenPracticoXamarin.dll
+C:\Users\MInerd\Desktop\ExamenPracticoXamarin\ExamenPracticoXamarin\ExamenPracticoXamarin\obj\Debug\netstandard2.0\ExamenPracticoXamarin.csprojAssemblyReference.cache
+C:\Users\MInerd\Desktop\ExamenPracticoXamarin\ExamenPracticoXamarin\ExamenPracticoXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\MInerd\Desktop\ExamenPracticoXamarin\ExamenPracticoXamarin\ExamenPracticoXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\MInerd\Desktop\ExamenPracticoXamarin\ExamenPracticoXamarin\ExamenPracticoXamarin\obj\Debug\netstandard2.0\ExamenPracticoXamarin.csproj.CoreCompileInputs.cache
+C:\Users\MInerd\Desktop\ExamenPracticoXamarin\ExamenPracticoXamarin\ExamenPracticoXamarin\obj\Debug\netstandard2.0\ExamenPracticoXamarin.AssemblyInfoInputs.cache
+C:\Users\MInerd\Desktop\ExamenPracticoXamarin\ExamenPracticoXamarin\ExamenPracticoXamarin\obj\Debug\netstandard2.0\ExamenPracticoXamarin.AssemblyInfo.cs
+C:\Users\MInerd\Desktop\ExamenPracticoXamarin\ExamenPracticoXamarin\ExamenPracticoXamarin\bin\Debug\netstandard2.0\ExamenPracticoXamarin.pdb
+C:\Users\MInerd\Desktop\ExamenPracticoXamarin\ExamenPracticoXamarin\ExamenPracticoXamarin\obj\Debug\netstandard2.0\Views\UsuariosMainPage.xaml.g.cs
+C:\Users\MInerd\Desktop\ExamenPracticoXamarin\ExamenPracticoXamarin\ExamenPracticoXamarin\obj\Debug\netstandard2.0\ExamenPracticoXamarin.dll
+C:\Users\MInerd\Desktop\ExamenPracticoXamarin\ExamenPracticoXamarin\ExamenPracticoXamarin\obj\Debug\netstandard2.0\ExamenPracticoXamarin.pdb
+C:\Users\MInerd\Desktop\ExamenPracticoXamarin\ExamenPracticoXamarin\ExamenPracticoXamarin\obj\Debug\netstandard2.0\Views\Detalle.xaml.g.cs
+C:\Users\MInerd\Desktop\ExamenPracticoXamarin\ExamenPracticoXamarin\ExamenPracticoXamarin\obj\Debug\netstandard2.0\XamlC.stamp

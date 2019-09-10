@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ExamenPracticoXamarin.Views.Detalle">
+    <ContentPage.Content>
+        <StackLayout Margin="5">
+            <Label x:Name="Titulo" FontSize="Large" TextColor="Black" HorizontalOptions="Center" Margin="10"/>
+            <Image x:Name="Picture" WidthRequest="200" HeightRequest="200" HorizontalOptions="Center" VerticalOptions="Center"/>
+            
+            <Grid Margin="10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Label TextColor="Black" FontSize="Medium" Text="Nombre:" Grid.Column="0" Grid.Row="0"/>
+                <Label TextColor="Black" FontSize="Medium" Text="Apellido:" Grid.Column="0" Grid.Row="1"/>
+                <Label TextColor="Black" FontSize="Medium" Text="Email:" Grid.Column="0" Grid.Row="2"/>
+                <Label TextColor="Black" FontSize="Medium" Text="Telefono:" Grid.Column="0" Grid.Row="3"/>
+                <Label TextColor="Black" FontSize="Medium" Text="Celular:" Grid.Column="0" Grid.Row="4"/>
+                <Label TextColor="Black" FontSize="Medium" Text="Ciudad:" Grid.Column="0" Grid.Row="5"/>
+                <Label TextColor="Black" FontSize="Medium" Text="Estado:" Grid.Column="0" Grid.Row="6"/>
+                
+                <Label FontSize="Medium" x:Name="Nombre" Grid.Column="1" Grid.Row="0"/>
+                <Label FontSize="Medium" x:Name="Apellido" Grid.Column="1" Grid.Row="1"/>
+                <Label FontSize="Medium" x:Name="Email" Grid.Column="1" Grid.Row="2"/>
+                <Label FontSize="Medium" x:Name="Telefono" Grid.Column="1" Grid.Row="3"/>
+                <Label FontSize="Medium" x:Name="Celular" Grid.Column="1" Grid.Row="4"/>
+                <Label FontSize="Medium" x:Name="Ciudad" Grid.Column="1" Grid.Row="5"/>
+                <Label FontSize="Medium" x:Name="Estado" Grid.Column="1" Grid.Row="6"/>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
